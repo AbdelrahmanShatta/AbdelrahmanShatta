@@ -1,8 +1,16 @@
+[![MasterHead](https://i.ibb.co/pj0sYG1/11-Tech-Robot-Poster-Banner-Background-Technology-Machine-Poster-Banner-Background-Image-And-Wallpap.jpg)]
 <h1 align="center">Hi 👋, I'm Abdelrahman ashraf</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate computer science student at Cairo University with a strong enthusiasm for the intersection of machine learning, artificial intelligence, and robotics. Eager to delve into innovative technologies, I am dedicated to exploring and contributing to advancements that shape the future of computing and intelligent systems.</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif?ep=v1_gifs_search">
+
+- 🌱 I’m currently learning **TensorFlow & Deeplearning**
+
+- 📫 How to reach me **bodehatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abdelrahman_shatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman_shatta" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdelrahman_shatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelrahman_shatta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
