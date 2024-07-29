@@ -3,7 +3,7 @@
 <h3 align="center">Passionate computer science student at Cairo University with a strong enthusiasm for the intersection of machine learning, artificial intelligence, and robotics. Eager to delve into innovative technologies, I am dedicated to exploring and contributing to advancements that shape the future of computing and intelligent systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif?ep=v1_gifs_search">
 
-- 🌱 I’m currently learning **TensorFlow & Deeplearning**
+
 
 - 📫 How to reach me **bodehatta@gmail.com**
 
