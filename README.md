@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/pj0sYG1/11-Tech-Robot-Poster-Banner-Background-Technology-Machine-Poster-Banner-Background-Image-And-Wallpap.jpg)
 <h1 align="center">Hi 👋, I'm Abdelrahman ashraf</h1>
-<h3 align="center">Passionate computer science student at Cairo University with a strong enthusiasm for the intersection of machine learning, artificial intelligence, and robotics. Eager to delve into innovative technologies, I am dedicated to exploring and contributing to advancements that shape the future of computing and intelligent systems.</h3>
+<h3 align="center">Exploring every corner of tech, One niche at a time :) </h3>
 
 
 
